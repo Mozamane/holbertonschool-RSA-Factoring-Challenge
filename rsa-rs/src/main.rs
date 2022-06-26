@@ -1,4 +1,4 @@
-// (C) 2019 Fernando Gonzalez-Morales
+// (C) 2022 Mozamane Baloyi
 // That's right.
 #![allow(irrefutable_let_patterns)]
 use std::{env, fs};
